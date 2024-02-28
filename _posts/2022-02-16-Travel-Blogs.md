@@ -13,4 +13,4 @@ pin: True
 # Taipei | Jan 2024
 
 1. [Taipei Day 1 - I missed my tour - Jiufen, Shifen, Raohe Night Market](/posts/taipei_day1)
-<!-- 2. [Taipei Day 1 - I missed my tour - Jiufen, Shifen, Raohe Night Market](/posts/taipei_day1) -->
+2. [Taipei Day 2 - Golden Age Walking Tour - Ning Xia Night Market](/posts/taipei_day2)
